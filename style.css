@@ -1,0 +1,27 @@
+body {
+    background-color: #4998ff;
+}
+
+#identificador {
+    color: rgb(117, 28, 82);/*cor*/
+    text-align: center;/*alinhamento*/
+    font-size: 20px;/*fonte*/
+    margin: 50px;/*espaço interno*/
+}
+.classe{
+    background-color: blue;
+    color: green;
+    text-align: right;
+    padding: 30px;
+    font-size: 30px;
+}
+.texto{
+    color: white;
+    line-height: 30px;
+    text-align: justify;
+    text-transform: capitalize;
+    /*uppercase lowercase */
+    font-weight: bold;
+    border: 1px solid red;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
