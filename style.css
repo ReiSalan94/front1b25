@@ -25,3 +25,12 @@ body {
     border: 1px solid red;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
+.produtos .item{
+    display: inline-block;
+    padding: 10px;
+}
+
+.produtos{
+    text-align: center;
+    margin: 20px;
+}
